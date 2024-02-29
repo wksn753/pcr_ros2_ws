@@ -1,0 +1,40 @@
+[0.066s] Invoking command in '/home/wassanyi/pcr_ros2_ws/ros2_ws/build/pcr_package': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake /home/wassanyi/pcr_ros2_ws/ros2_ws/src/pcr_package -DCMAKE_INSTALL_PREFIX=/home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package
+[0.078s] -- Found ament_cmake: 2.0.4 (/opt/ros/iron/share/ament_cmake/cmake)
+[0.229s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.245s] -- Found ament_lint_auto: 0.14.3 (/opt/ros/iron/share/ament_lint_auto/cmake)
+[0.350s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.351s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/wassanyi/pcr_ros2_ws/ros2_ws/src/pcr_package/include>
+[0.351s] -- Configured cppcheck exclude dirs and/or files: 
+[0.352s] -- Added test 'lint_cmake' to check CMake code style
+[0.355s] -- Added test 'uncrustify' to check C / C++ code style
+[0.355s] -- Configured uncrustify additional arguments: 
+[0.356s] -- Added test 'xmllint' to check XML markup files
+[0.359s] -- Configuring done
+[0.371s] -- Generating done
+[0.374s] -- Build files have been written to: /home/wassanyi/pcr_ros2_ws/ros2_ws/build/pcr_package
+[0.381s] Invoked command in '/home/wassanyi/pcr_ros2_ws/ros2_ws/build/pcr_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake /home/wassanyi/pcr_ros2_ws/ros2_ws/src/pcr_package -DCMAKE_INSTALL_PREFIX=/home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package
+[0.386s] Invoking command in '/home/wassanyi/pcr_ros2_ws/ros2_ws/build/pcr_package': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --build /home/wassanyi/pcr_ros2_ws/ros2_ws/build/pcr_package -- -j8 -l8
+[0.470s] [ 50%] [32mBuilding CXX object CMakeFiles/pcr_node.dir/src/pcr_node.cpp.o[0m
+[0.526s] [100%] [32m[1mLinking CXX executable pcr_node[0m
+[0.583s] [100%] Built target pcr_node
+[0.598s] Invoked command in '/home/wassanyi/pcr_ros2_ws/ros2_ws/build/pcr_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --build /home/wassanyi/pcr_ros2_ws/ros2_ws/build/pcr_package -- -j8 -l8
+[0.641s] Invoking command in '/home/wassanyi/pcr_ros2_ws/ros2_ws/build/pcr_package': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --install /home/wassanyi/pcr_ros2_ws/ros2_ws/build/pcr_package
+[0.649s] -- Install configuration: ""
+[0.651s] -- Execute custom install script
+[0.651s] -- Symlinking: /home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/lib/pcr_package/pcr_node
+[0.662s] -- Up-to-date symlink: /home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/ament_index/resource_index/package_run_dependencies/pcr_package
+[0.662s] -- Up-to-date symlink: /home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/ament_index/resource_index/parent_prefix_path/pcr_package
+[0.663s] -- Up-to-date symlink: /home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/pcr_package/environment/ament_prefix_path.sh
+[0.663s] -- Up-to-date symlink: /home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/pcr_package/environment/ament_prefix_path.dsv
+[0.664s] -- Up-to-date symlink: /home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/pcr_package/environment/path.sh
+[0.664s] -- Up-to-date symlink: /home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/pcr_package/environment/path.dsv
+[0.665s] -- Up-to-date symlink: /home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/pcr_package/local_setup.bash
+[0.665s] -- Up-to-date symlink: /home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/pcr_package/local_setup.sh
+[0.666s] -- Up-to-date symlink: /home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/pcr_package/local_setup.zsh
+[0.667s] -- Up-to-date symlink: /home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/pcr_package/local_setup.dsv
+[0.667s] -- Symlinking: /home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/pcr_package/package.dsv
+[0.679s] -- Up-to-date symlink: /home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/ament_index/resource_index/packages/pcr_package
+[0.679s] -- Up-to-date symlink: /home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/pcr_package/cmake/pcr_packageConfig.cmake
+[0.680s] -- Up-to-date symlink: /home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/pcr_package/cmake/pcr_packageConfig-version.cmake
+[0.680s] -- Up-to-date symlink: /home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/pcr_package/package.xml
+[0.684s] Invoked command in '/home/wassanyi/pcr_ros2_ws/ros2_ws/build/pcr_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --install /home/wassanyi/pcr_ros2_ws/ros2_ws/build/pcr_package

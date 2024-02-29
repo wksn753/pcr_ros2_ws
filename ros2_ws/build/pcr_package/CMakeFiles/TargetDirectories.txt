@@ -1,0 +1,10 @@
+/home/wassanyi/pcr_ros2_ws/ros2_ws/build/pcr_package/CMakeFiles/uninstall.dir
+/home/wassanyi/pcr_ros2_ws/ros2_ws/build/pcr_package/CMakeFiles/pcr_package_uninstall.dir
+/home/wassanyi/pcr_ros2_ws/ros2_ws/build/pcr_package/CMakeFiles/pcr_node.dir
+/home/wassanyi/pcr_ros2_ws/ros2_ws/build/pcr_package/CMakeFiles/test.dir
+/home/wassanyi/pcr_ros2_ws/ros2_ws/build/pcr_package/CMakeFiles/edit_cache.dir
+/home/wassanyi/pcr_ros2_ws/ros2_ws/build/pcr_package/CMakeFiles/rebuild_cache.dir
+/home/wassanyi/pcr_ros2_ws/ros2_ws/build/pcr_package/CMakeFiles/list_install_components.dir
+/home/wassanyi/pcr_ros2_ws/ros2_ws/build/pcr_package/CMakeFiles/install.dir
+/home/wassanyi/pcr_ros2_ws/ros2_ws/build/pcr_package/CMakeFiles/install/local.dir
+/home/wassanyi/pcr_ros2_ws/ros2_ws/build/pcr_package/CMakeFiles/install/strip.dir

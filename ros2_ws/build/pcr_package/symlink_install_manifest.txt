@@ -1,0 +1,16 @@
+/home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/lib/pcr_package/pcr_node
+/home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/ament_index/resource_index/package_run_dependencies/pcr_package
+/home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/ament_index/resource_index/parent_prefix_path/pcr_package
+/home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/pcr_package/environment/ament_prefix_path.sh
+/home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/pcr_package/environment/ament_prefix_path.dsv
+/home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/pcr_package/environment/path.sh
+/home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/pcr_package/environment/path.dsv
+/home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/pcr_package/local_setup.bash
+/home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/pcr_package/local_setup.sh
+/home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/pcr_package/local_setup.zsh
+/home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/pcr_package/local_setup.dsv
+/home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/pcr_package/package.dsv
+/home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/ament_index/resource_index/packages/pcr_package
+/home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/pcr_package/cmake/pcr_packageConfig.cmake
+/home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/pcr_package/cmake/pcr_packageConfig-version.cmake
+/home/wassanyi/pcr_ros2_ws/ros2_ws/install/pcr_package/share/pcr_package/package.xml
